@@ -2,8 +2,7 @@
 <!-- saved from url=(0027)http://apply.felixihub.com/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-	
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atoyegbe Adeyemi</title>
 
 	<meta name="description" content="African development through partnership">
@@ -14,7 +13,9 @@
 	<meta property="og:type" content="article">
 	<meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
 	<meta property="og:description" content="African development through partnership">
-   <link rel="stylesheet" type="text/css" href="./resume.css">
+   <link rel="stylesheet" type="text/css" href="resume.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body cz-shortcut-listen="true">
 	<div class="container">
@@ -24,23 +25,43 @@
 		</header>
              <aside class="artwork">
 				<img src="pp.jpg" alt="Adeyemi">
-				<h1>Atoyegbe Adeyemi <span class="for"> <br>I am a </span> Favcoder(Ai-student)</h1>
+             
+				<h2>Atoyegbe Adeyemi </h2> 
+				<p class="aside">
+                 <em>Born: May 2nd 1999<em><br>
+                <i class="material-icons">&#xe0c8;</i>Lagos, Nigeria<br>
+				I am a Favcoder(Ai-student)</h1>
+			</p>
 				<p>
 				 <strong>
 				  My mission for Favcode is to:
 			     </strong>
-				 To contribute to  Developing and deploying enterprise software products.
+				 Develop and deploy enterprise software products.
 				</p>
+			
+				<a href="https://www.facebook.com/adeyemiuthman.atoyegbe" target="_blank">
+					<i style="font-size:30px; color:white;" class="fa">&#xf230;</i>
+				</a>    
+				 <a href="https://github.com/atoyegbe" target="_blank">
+				 	<i style="font-size:30px; color:white;" class="fa">&#xf09b; </i>
+				 </a>
+				 <a href="https://www.instagram.com/adeyemiatoyegbe/" target="_blank">
+			   <i style="font-size:30px; color:white;" class="fa">&#xf16d;</i>
+	              </a>
+            
+
+
+			
 			</aside>
 		<section class="main">
 			<div class="get-started">
                
-                <h2>This is why you should choose me</h2>
+                <h2>This is why you should choose me:</h2>
                   <p> 
-	               I have a very good understanding of HTML and CSS... I am also good using  javascript(intermidate) to manipulate the document object module (DOM),
-	               i can write clean and readable code which others will be able to understand with ease and am also pretty good at degugging..
-		           i love learning new things and i am also willing to learn and contribute in a positive way to your company.. 
-		           i will be very much happy if you consider me not for  being the best but me wanting to be the best with your company.. i do not just work hard but i also work smart.
+	               I have a very good understanding of HTML5 and CSS3 and javscript(intermidate),
+	               I can write clean and readable code which others will be able to understand with ease. i love challenges solving problems.. my debugging skills is 60%, i love learning new things and also trying new ways of doing things diffferent from the normal paradigm..
+		             I do not just work hard but i also work smart.
+		             I am willing to learn, work and contibute to the development of your company in a positive way...  
 		      
 			      Thank you for giving me this opportunity to express myself.. 
 		         </p>
@@ -52,7 +73,9 @@
 	</div>
 
 <footer>
-			<p>March 28, 2018. Submission for Felix - Favcode Partnership</p>
-			<p>Made by Atoyegbe Adeyemi.</p>
-		</footer>
-</body></html>
+			
+       <p>April 02, 2018. Submission for Felix - Favcode Partnership</p>
+	<p>Made by Atoyegbe Adeyemi.</p>
+</footer>
+</body>
+</html>
