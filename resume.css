@@ -1,9 +1,7 @@
 body {
-	background-color:black;
+	
 	color: white;
-    transition: all;
-    transition-delay: 5s;
-    background-color:grey;
+    background-color:#FA8072;
 }
 
 header{
@@ -11,9 +9,9 @@ header{
     border-bottom-style: dotted;
 }
 
-header,h1: hover{
-    color: lightblue;
-
+h2{
+    text-align: center;
+    font-family:cursive;
 }
 
 img{
@@ -27,28 +25,34 @@ img{
     margin-left: 50px;
 }
 
-img:hover{
-   backface-visibility:grey ;
-}
 
+.aside{
+    text-align:center;
+
+}
 aside {
 	
     width: 25%;
-    height: 500px;
+    height: 600px;
     color: white;
     position: fixed;
-    background-color: black;
-    text-align: center;
+     font-family: cursive;
+    background-color:   #008080;
+   /* text-align: justify-all;*/
     border-right-color: white;
-    border-right:solid;
-    border-radius:20px;
+    border-radius:10px;
+    
 	
 }
-aside:hover{
-    background-color: lightblue;
-    color: black;
-    font-family: cursive;
+a i{
+    
+    margin-top: 90px;
+    margin-left:30px;
+
+
 }
+
+
 section {
    
     width: 70%;
@@ -61,9 +65,14 @@ section {
 
 
 footer{
-    margin-top: 250px;
+    margin-top: 200px;
     position: relative;
     float: right;
     margin-left: 150px;
 }
 
+
+
+
+
+   
