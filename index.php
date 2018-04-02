@@ -24,7 +24,7 @@
 			  <h1> MY RESUME</h1>
 		</header>
              <aside class="artwork">
-				<img src="pp.jpg" alt="Adeyemi">
+				<img src="profile.jpg" alt="Adeyemi">
              
 				<h2>Atoyegbe Adeyemi </h2> 
 				<p class="aside">
